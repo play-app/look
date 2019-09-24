@@ -1,4 +1,4 @@
 class Student{
-	public int score ;
-	public int age ;
+	 public int score;
+                 public int age;
 }
